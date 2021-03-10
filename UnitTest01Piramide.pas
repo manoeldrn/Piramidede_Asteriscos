@@ -35,6 +35,7 @@ begin
   begin
     Memo1.Lines.Add(StringOfChar('*', I));
   end;
+
 end;
 
 end.
